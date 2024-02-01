@@ -1,0 +1,22 @@
+.joke {
+    font-size: 60px;
+    font-weight: 800;
+    color: rgb(255, 244, 40);
+}
+@media (max-width: 600px) {
+    .joke{
+        font-size:40px ;
+    }
+  }
+
+  @media (max-width: 600px){
+    .joke{
+        font-size:30px ;
+    }
+  }
+
+.score{
+    font-weight: 800;
+    color: rgb(255, 244, 40);
+}
+
